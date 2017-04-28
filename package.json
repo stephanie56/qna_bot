@@ -1,0 +1,19 @@
+{
+  "name": "mia_the_bot",
+  "version": "1.0.0",
+  "description": "Microsoft QnA Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "nodejs"
+  ],
+  "author": "Stephanie Zeng",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.0-beta7",
+    "restify": "^4.3.0"
+  }
+}
